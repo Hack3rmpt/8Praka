@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prak_8_", "Prak_8_\Prak_8_.csproj", "{F4FE5AC4-DD0C-4AA8-A7A2-39BCCAABC039}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2397E466-5229-47D3-840D-4B0D7210F3E6} = {2397E466-5229-47D3-840D-4B0D7210F3E6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{2397E466-5229-47D3-840D-4B0D7210F3E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4FE5AC4-DD0C-4AA8-A7A2-39BCCAABC039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FE5AC4-DD0C-4AA8-A7A2-39BCCAABC039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FE5AC4-DD0C-4AA8-A7A2-39BCCAABC039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FE5AC4-DD0C-4AA8-A7A2-39BCCAABC039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2397E466-5229-47D3-840D-4B0D7210F3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2397E466-5229-47D3-840D-4B0D7210F3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2397E466-5229-47D3-840D-4B0D7210F3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2397E466-5229-47D3-840D-4B0D7210F3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9844C90-B3AF-428E-B893-BA7355F809C2}
+	EndGlobalSection
+EndGlobal
